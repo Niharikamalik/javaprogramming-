@@ -14,7 +14,7 @@ class Student{
      this.name = name;
  }    
 }
-public class Main{
+public class ArrayOfObject{
     public static void main (String[] args) {
         /* code */
        Student []arr = new Student[3];
